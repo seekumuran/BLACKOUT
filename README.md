@@ -1,6 +1,6 @@
 # PSP: BLACKOUT
 
-> Reimagining the PlayStation Portable as a portable cyberdeck for embedded systems, networking, and security research.
+> Reimagining the PlayStation Portable as a portable cyberdeck.
 
 ## Overview
 
